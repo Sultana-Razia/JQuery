@@ -1,0 +1,27 @@
+body{
+    margin-top: 40px;
+
+}
+.box{
+    height: 300px;
+    width: 500px;
+    margin: 40px 100px;
+    padding: 20px;
+    float: left;
+    border: 1px solid black;
+}
+.p1{
+    background-color: rgb(12, 218, 104);
+}
+.p2{
+    background-color: hotpink;
+}
+.p3{
+    background-color: lawngreen;
+}
+.p4{
+    background-color: lightseagreen;
+}
+.p5{
+    background-color: rgb(146, 67, 89);
+}
